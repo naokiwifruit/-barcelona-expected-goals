@@ -1,4 +1,4 @@
-﻿season,match_date,period,timestamp,team,player,play_pattern,under_pressure,body_part,type,technique,first_time,one_on_one,open_goal,key_pass_id,start_location_x,start_location_y,distance,angle,goal,statsbomb_xg,xg
+season,match_date,period,timestamp,team,player,play_pattern,under_pressure,body_part,type,technique,first_time,one_on_one,open_goal,key_pass_id,start_location_x,start_location_y,distance,angle,goal,statsbomb_xg,xg
 2018/2019,2019-03-17,1,00:17:13.830,Barcelona,Lionel Andrés Messi Cuccittini,From Free Kick,0,Foot,Free Kick,Normal,0,0,0,,95.6,44.4,24.793547547698783,18.057463209752946,1,0.12733692,0.12602852738587542
 2018/2019,2019-03-17,1,00:24:28.346,Barcelona,Lionel Andrés Messi Cuccittini,From Free Kick,0,Foot,Free Kick,Normal,0,0,0,,94.0,46.1,26.70599183703912,16.6115216664824,0,0.09060272,0.0996909790199002
 2018/2019,2019-03-17,1,00:39:16.313,Barcelona,Luis Alberto Suárez Díaz,Regular Play,0,Foot,Open Play,Normal,1,0,0,af55f0c3-fff3-4c57-ba83-b6f21ee01ca1,106.0,46.0,15.231546211727816,27.40757543781841,0,0.28120429999999996,0.2242288811881365

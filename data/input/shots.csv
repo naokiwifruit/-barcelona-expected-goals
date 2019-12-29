@@ -1,4 +1,4 @@
-﻿season,match_date,period,timestamp,team,player,play_pattern,under_pressure,body_part,type,technique,first_time,one_on_one,open_goal,key_pass_id,start_location_x,start_location_y,distance,angle,goal,statsbomb_xg
+season,match_date,period,timestamp,team,player,play_pattern,under_pressure,body_part,type,technique,first_time,one_on_one,open_goal,key_pass_id,start_location_x,start_location_y,distance,angle,goal,statsbomb_xg
 2004/2005,2004-12-11,1,00:01:21.354,Barcelona,Andrés Iniesta Luján,Regular Play,0,Foot,Open Play,Normal,0,1,0,,112.4,51.6,13.867948658687771,19.025606037568664,1,0.216037
 2004/2005,2004-12-11,1,00:18:01.782,Barcelona,"Samuel Eto""o Fils",From Counter,0,Foot,Open Play,Normal,0,0,0,7422812b-baf5-4b0c-b031-60c5b46af2e5,114.4,59.1,19.90401969452402,6.720854402792681,0,0.019256786
 2004/2005,2004-12-11,1,00:27:39.854,Barcelona,Rafael Márquez Álvarez,From Free Kick,0,Foot,Open Play,Volley,1,0,0,52b7356b-94b1-40ef-9de3-5b015011ac77,115.1,31.7,9.638464608017195,27.01034619716313,0,0.1665386
