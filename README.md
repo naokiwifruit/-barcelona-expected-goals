@@ -1,9 +1,7 @@
 # Expected Goals (xG) for FC Barcelona
-This repo is building as Expected Goals (xG) model for FC Barcelona from StatsBomb event data.
+This repo is building an Expected Goals (xG) model for FC Barcelona from StatsBomb event data. 
 
-"Expected Goals (xG)" is as metric which assesses goal probability for each shooting circumstance. 
-
-We predicted xGs for all Barca's shots in La Liga 18/19 season by the LightGBM model which was trained with shot data in 04/05-17/18 seasons.
+"Expected Goals (xG)" is a metric which assesses a goal probability for each shooting circumstance. We predicted xGs for all Barca's shots in La Liga 18/19 season by the LightGBM model which was trained with shot data in 04/05-17/18 seasons.
 
 **NOTE**: This model is trained with shot data of FC Barcelona only since StatsBomb open data is limited to the match Messi has played. Therefore this model should be utilized only for Barca's shot data Messi has played and does not have an generalization ability toward another shot data.
 
@@ -36,5 +34,5 @@ Check jupyter notebooks.
 
 ## References
 1. StatsBomb, "StatsBomb Open Data" [GitHub](https://github.com/statsbomb/open-data) (2019).
-![StatsBomb Logo](img/stats-bomb-logo.png)
+![StatsBomb Logo](images/stats-bomb-logo.png)
 2. imrankhan17, "StatsBomb JSON parser" [statsbomb 0.3.0](https://pypi.org/project/statsbomb/) (2019).
