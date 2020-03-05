@@ -28,9 +28,9 @@ $ pip install -r ./requirements.txt
 Check jupyter notebooks.
 
 ## Articles
-1. NAOKI『MSN時代のバルセロナのゴール期待値を算出する【バルサxG 結果編】』[note.com](https://note.com/naokiwifruit/n/n9a1b29401c1e) (2019)
-2. NAOKI『バルセロナのシュートデータを理解する【バルサxG 可視化編】』[note.com](https://note.com/naokiwifruit/n/n73b5017e72d0) (2019)
-3. NAOKI『バルセロナのゴール期待値をLightGBMで予測する【バルサxG モデル構築編】』[note.com](https://note.com/naokiwifruit/n/nc1641948c033) (2019)
+1. naokiwifruit『MSN時代のバルセロナのゴール期待値を算出する』[Scientification](https://naokiwifruit.com/2019/12/02/barcelona-expected-goals/) (2019)
+2. naokiwifruit『バルセロナのシュートデータを可視化する』[Scientification](https://naokiwifruit.com/2019/12/14/visualize-barcelona-shot-data/) (2019)
+3. naokiqifruit『バルセロナのゴール期待値をLightGBMで予測する』[Scientification](https://naokiwifruit.com/2019/12/30/lightgbm-barcelona-expected-goals/) (2019)
 
 ## References
 1. StatsBomb, "StatsBomb Open Data" [GitHub](https://github.com/statsbomb/open-data) (2019).
